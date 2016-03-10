@@ -1,0 +1,5 @@
+{"employee": "${param1}", "details": [
+    {
+        "manager": "${param2}"
+    }
+]}
